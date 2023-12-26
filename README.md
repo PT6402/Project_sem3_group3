@@ -11,7 +11,7 @@
 4. Trần Cao Minh Đức (Student1414362)
    
 ======================================= 
-Documentations:
+Documentations: https://github.com/PT6402/Project_sem3_group3/tree/main/Documentation
 ======================================= 
 
 ======================================= 
