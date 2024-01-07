@@ -8,11 +8,13 @@
 1. Trần Thiện Hiếu (Student1394598) 
 2. Trần Văn Phát (Student1398823) 
 3. Nguyễn Văn Thiện (Student1408856)
-4. Trần Cao Minh Đức (Student1414362)
+
    
 ======================================= 
 
 Documentations: https://github.com/PT6402/Project_sem3_group3/tree/main/Documentation
+
+Development: https://github.com/PT6402/Project_sem3_group3/tree/main/Developments
 
 ======================================= 
 
