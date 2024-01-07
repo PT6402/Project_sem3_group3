@@ -8,7 +8,7 @@
 1. Trần Thiện Hiếu (Student1394598) 
 2. Trần Văn Phát (Student1398823) 
 3. Nguyễn Văn Thiện (Student1408856)
-4. Trần Cao Minh Đức (Student1414362)
+
    
 ======================================= 
 
