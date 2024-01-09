@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Dto\ConnectType\" />
+	  <None Remove="Dto\Duration\" />
+	  <None Remove="Dto\DurationDetail\" />
+	  <None Remove="Dto\Package\" />
+	  <None Remove="Dto\CallCharge\" />
+	  <None Remove="Dto\Coupon\" />
+	  <None Remove="Dto\Employee_TypeDto\" />
+	  <None Remove="Dto\Orders\" />
+	  <None Remove="Dto\Payment\" />
+	  <None Remove="Dto\EmployeeDto\" />
+	  <None Remove="Dto\OrderHandler\" />
+	  <None Remove="Dto\FeedbackSend\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Dto\ConnectType\" />
+	  <Folder Include="Dto\DurationDetail\" />
+	  <Folder Include="Dto\CallCharge\" />
+	  <Folder Include="Dto\Coupon\" />
+	  <Folder Include="Dto\Employee_TypeDto\" />
+	  <Folder Include="Dto\Orders\" />
+	  <Folder Include="Dto\Payment\" />
+	  <Folder Include="Dto\OrderHandler\" />
+	  <Folder Include="Dto\FeedbackSend\" />
+	</ItemGroup>
+</Project>
