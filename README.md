@@ -12,9 +12,9 @@
    
 ======================================= 
 
-Documentations: https://github.com/PT6402/Project_sem3_group3/tree/main/Documentation
+Documentations: https://github.com/PT6402/Project_sem3_group3/tree/main/eProject%20Sem03_T1.2208M2_Nexus%20Service%20Marketing%20System_Group03_Final%20Submit/01.%20Documentations
 
-Development: https://github.com/PT6402/Project_sem3_group3/tree/main/Developments
+Development: 
 
 ======================================= 
 
