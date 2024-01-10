@@ -602,14 +602,14 @@ new Duration_callCharges { Id = 10, Duration_Id = 10, Call_charges_Id = null },
                 (
                     new User { Id = 1, FullName = "Nguyen Van Thien", Phone = "0932859395", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "user", Status = "Active" },
                     new User { Id = 2, FullName = "admin", Phone = "0971866177", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "admin" },
-                    new User { Id = 3, FullName = "Tran Thien Hieu", Phone = "0123456789", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "sale" },
-                    new User { Id = 4, FullName = "Tran Van Phat", Phone = "0987654321", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Technical" },
-                    new User { Id = 5, FullName = "Nguyen Van A", Phone = "0796526595", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "sale" },
-                    new User { Id = 6, FullName = "Nguyen Van B", Phone = "0955797871", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "sale" },
-                    new User { Id = 7, FullName = "Nguyen Van C", Phone = "0689764123", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "sale" },
-                    new User { Id = 8, FullName = "Nguyen Van D", Phone = "0689434167", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Technical" },
-                    new User { Id = 9, FullName = "Nguyen Van E", Phone = "0689764139", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Technical" },
-                    new User { Id = 10, FullName = "Nguyen Van F", Phone = "0329764195", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Technical" }
+                    new User { Id = 3, FullName = "Tran Thien Hieu", Phone = "0123456789", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Sale" },
+                    new User { Id = 4, FullName = "Tran Van Phat", Phone = "0987654321", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Technician" },
+                    new User { Id = 5, FullName = "Nguyen Van A", Phone = "0796526595", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Sale" },
+                    new User { Id = 6, FullName = "Nguyen Van B", Phone = "0955797871", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Sale" },
+                    new User { Id = 7, FullName = "Nguyen Van C", Phone = "0689764123", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Sale" },
+                    new User { Id = 8, FullName = "Nguyen Van D", Phone = "0689434167", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Technician" },
+                    new User { Id = 9, FullName = "Nguyen Van E", Phone = "0689764139", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Technician" },
+                    new User { Id = 10, FullName = "Nguyen Van F", Phone = "0329764195", PasswordHash = pass.PasswordHash, PasswordSalt = pass.PasswordSalt, Role = "Emp_Technician" }
                 );
             });
 
