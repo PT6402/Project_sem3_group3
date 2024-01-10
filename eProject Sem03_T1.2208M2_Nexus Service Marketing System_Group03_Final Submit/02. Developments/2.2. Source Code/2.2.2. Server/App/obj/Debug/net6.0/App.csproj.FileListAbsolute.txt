@@ -1,0 +1,1305 @@
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/appsettings.json
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.exe
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.deps.json
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.runtimeconfig.json
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/App.pdb
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Humanizer.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.CopyComplete
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.dll
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/refint/App.dll
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.pdb
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+C:/Users/pc/eProject_sem3-master/App/obj/Debug/net6.0/ref/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/appsettings.Development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/appsettings.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App.deps.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App.runtimeconfig.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Azure.Core.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Azure.Identity.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Humanizer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.CodeDom.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Text.Json.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.build.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/staticwebassets.development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.csproj.CopyComplete
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/refint/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/eProject_sem3-master/App/obj/Debug/net6.0/ref/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/appsettings.Development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/appsettings.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.exe
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.deps.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.runtimeconfig.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Azure.Core.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Azure.Identity.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Humanizer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.CodeDom.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Memory.Data.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Text.Json.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets.build.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets.development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/staticwebassets.pack.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.csproj.CopyComplete
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/refint/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv2/App/obj/Debug/net6.0/ref/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/appsettings.Development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/appsettings.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.exe
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.deps.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.runtimeconfig.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Azure.Core.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Azure.Identity.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Humanizer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.CodeDom.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Memory.Data.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Text.Json.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets.build.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets.development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/staticwebassets.pack.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.csproj.CopyComplete
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/refint/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv3/App/obj/Debug/net6.0/ref/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/appsettings.Development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/appsettings.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.exe
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.deps.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.runtimeconfig.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Azure.Core.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Azure.Identity.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Humanizer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.CodeDom.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Memory.Data.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Text.Json.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.build.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.pack.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.CopyComplete
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/refint/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/ref/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/appsettings.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.exe
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.deps.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.runtimeconfig.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Humanizer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.csproj.CopyComplete
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/refint/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+C:/Users/pc/EProject/eProject_sem3-masterv4/App/obj/Debug/net6.0/ref/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/appsettings.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.exe
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.deps.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.runtimeconfig.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Humanizer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.csproj.CopyComplete
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/refint/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+C:/Users/pc/EProject/eProject_sem3-masterv6/App/obj/Debug/net6.0/ref/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/appsettings.Development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/appsettings.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.exe
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.deps.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.runtimeconfig.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Azure.Core.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Azure.Identity.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Humanizer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.CodeDom.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Memory.Data.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Text.Json.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.build.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.pack.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.CopyComplete
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/refint/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv7/App/obj/Debug/net6.0/ref/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/appsettings.Development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/appsettings.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.deps.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.runtimeconfig.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Azure.Core.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Azure.Identity.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Humanizer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.CodeDom.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Text.Json.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.build.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/staticwebassets.development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.csproj.CopyComplete
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/refint/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv7/App/obj/Debug/net6.0/ref/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/appsettings.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.exe
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.deps.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.runtimeconfig.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Humanizer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.CopyComplete
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/refint/App.dll
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.pdb
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+C:/Users/pc/EProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/ref/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/appsettings.Development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/appsettings.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.exe
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.deps.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.runtimeconfig.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Azure.Core.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Azure.Identity.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Humanizer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.CodeDom.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Memory.Data.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Text.Json.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.build.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.development.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/staticwebassets.pack.json
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.csproj.CopyComplete
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/refint/App.dll
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.pdb
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+D:/CODE/T1.2208M0/HK3/6_eProject/eProject_sem3-masterv8/App/obj/Debug/net6.0/ref/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/appsettings.Development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/appsettings.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App.staticwebassets.runtime.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App.deps.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App.runtimeconfig.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Azure.Core.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Azure.Identity.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Humanizer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.CodeDom.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Text.Json.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.MvcApplicationPartsAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.RazorAssemblyInfo.cs
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets/msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets/msbuild.build.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.App.props
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets.build.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/staticwebassets.development.json
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/scopedcss/bundle/App.styles.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/scopedcss/projectbundle/App.bundle.scp.css
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.csproj.CopyComplete
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/refint/App.dll
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.pdb
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/Users/hieutran/Desktop/T1.2208M0/sem3/draft eproject/general/eProject_sem3-masterv9-1/App/obj/Debug/net6.0/ref/App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.staticwebassets.runtime.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.exe
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.deps.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.runtimeconfig.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\App.pdb
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cs
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets\msbuild.build.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\scopedcss\projectbundle\App.bundle.scp.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.csproj.CopyComplete
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\refint\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.pdb
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-1\App\obj\Debug\net6.0\ref\App.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\appsettings.Development.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\appsettings.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.staticwebassets.runtime.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.exe
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.deps.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.pdb
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Azure.Core.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Azure.Identity.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Humanizer.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.CodeDom.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Text.Json.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cs
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.build.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.development.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.build.App.props
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.props
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\projectbundle\App.bundle.scp.css
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.CopyComplete
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\refint\App.dll
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.pdb
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\CODE\T1.2208M0\HK3\6_eProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.staticwebassets.runtime.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.exe
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.deps.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.runtimeconfig.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\App.pdb
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.RazorAssemblyInfo.cs
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.build.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.props
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\scopedcss\projectbundle\App.bundle.scp.css
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.csproj.CopyComplete
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\refint\App.dll
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.pdb
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+C:\Users\pc\EProject\eProject_sem3-masterv9-5-3\App\obj\Debug\net6.0\ref\App.dll

@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Infobip.Api.Client" Version="2.1.2" />
+		<PackageReference Include="MailKit" Version="4.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.25" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.14" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.14">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="7.0.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.12" />
+		<PackageReference Include="Twilio.AspNet.Mvc" Version="8.0.2" />
+		<PackageReference Include="PayPal" Version="1.9.1" />
+		<PackageReference Include="Stripe.net" Version="43.9.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Controllers\PackageController\" />
+	  <None Remove="Controllers\ConnectTypeController\" />
+	  <None Remove="Controllers\DurationController\" />
+	  <None Remove="Controllers\DurationCallChargeController\" />
+	  <None Remove="Controllers\CallChargeController\" />
+	  <None Remove="Controllers\AddressStoreController\" />
+	  <None Remove="Controllers\EmployeeTypeController\" />
+	  <None Remove="Controllers\OrdersController\" />
+	  <None Remove="Controllers\PaymentsController\" />
+	  <None Remove="Controllers\EmployeeController\" />
+	  <None Remove="Controllers\OrderHandlerController\" />
+	  <None Remove="Controllers\StaffController\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Controllers\PackageController\" />
+	  <Folder Include="Controllers\ConnectTypeController\" />
+	  <Folder Include="Controllers\DurationController\" />
+	  <Folder Include="Controllers\DurationCallChargeController\" />
+	  <Folder Include="Controllers\CallChargeController\" />
+	  <Folder Include="Controllers\AddressStoreController\" />
+	  <Folder Include="Controllers\EmployeeTypeController\" />
+	  <Folder Include="Controllers\OrdersController\" />
+	  <Folder Include="Controllers\PaymentsController\" />
+	  <Folder Include="Controllers\EmployeeController\" />
+	  <Folder Include="Controllers\OrderHandlerController\" />
+	  <Folder Include="Service\images\" />
+	  <Folder Include="Controllers\StaffController\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Lib\Lib.csproj" />
+	</ItemGroup>
+</Project>
