@@ -301,7 +301,7 @@ namespace Api.Data_helper
                 .OnDelete(DeleteBehavior.NoAction);
             });
 
-            modelBuilder.Entity<Connect_type>().HasData
+         /*   modelBuilder.Entity<Connect_type>().HasData
                (
                    new Connect_type { Id = 1, Name = "Dial-up", First_Letter = "D", Description = "dial-up", Security_Deposit = 325 },
                    new Connect_type { Id = 2, Name = "Broad Band", First_Letter = "B", Description = "Broad Band", Security_Deposit = 500 },
@@ -735,7 +735,7 @@ new Duration_callCharges { Id = 10, Duration_Id = 10, Call_charges_Id = null },
                     new Coupon { Id = 2, Name = "code coupon 1", To = 15, From = 25, Percent_discount = 50 },
                     new Coupon { Id = 3, Name = "code coupon 2", To = 25, From = 50, Percent_discount = 75 },
                     new Coupon { Id = 4, Name = "code coupon 3", To = 50, From = 1000, Percent_discount = 100 }
-                );
+                ); */
 
         }
     }
